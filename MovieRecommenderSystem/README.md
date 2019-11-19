@@ -1,5 +1,6 @@
 # Machine Learning - Project 2
-## Movie Recommendation System - Information Filtering Systems
+
+## Movie Recommendation System
 
 ### Context
 
@@ -16,8 +17,6 @@ Embedded Method
 Recursive Feature Elimination
 
 ## Information Filtering Systems
-
-
 
 ### Demographic Filtering
 
