@@ -66,5 +66,26 @@ Hyper parameters Value:
 * Epochs: 10
 * Model weights: Inceptionv3 weights
 
+### Execution
+
+```
+python main.py
+```
+
+### Graphical User Interface
+
+The main page of the UI is present as following:
+
+![](Image_result_1.png)
+
+The final results (image detection / captioning / text2speech) are given:
+
+![](Image_result_2.png)
+
+### Text2Speech
+
+<a href="futbol.mp3">Audio (English)</a>
+
+<a href="futbol_sp.mp3">Audio (Spanish)</a>
 
 
