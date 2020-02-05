@@ -31,27 +31,32 @@ python app.py
 ```
 
 ## Graphical User Interface
-The main page of the UI is present as following:
+
+#### The main page of the UI is present as following:
 
 ![](Image1.png)
+------
 
-After including the values:
+#### After including the text:
 
 ![](Image2.png)
+------
 
-The final result (Sentiment prediction) is given:
+#### The final result (Sentiment prediction) is given:
 
 ![](Image3.png)
+------
 
-When typing a different comment with no regular content:
+#### When typing a different comment with no regular content:
 
 ![](Image4.png)
+------
 
-The prediction is given:
+#### The prediction is given:
 
 ![](Image5.png)
-
+------
 
 ### Conclusion
 
-The logistic regression model worked in this kernel, once done the featured engineering and tunned is able to predict the content (sentiment involved) from a regular tweet in opposition to a racist/sexist one and viceversa with an accuracy of 95.0%. (As presented in the Colab notebook).
+#### The logistic regression model worked in this kernel, once done the featured engineering and tunned is able to predict the content (sentiment involved) from a regular tweet in opposition to a racist/sexist one and viceversa with an accuracy of 95.0%. (As presented in the Colab notebook).
